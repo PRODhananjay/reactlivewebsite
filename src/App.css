@@ -1,0 +1,133 @@
+.home-font{
+  font-family: 'League Spartan', sans-serif;
+
+}
+body{
+  overflow-x: hidden;
+}
+.bg-img{
+  background-image: url('assets/images/event.jpg');
+  background-size:cover;
+  background-position:center center;
+  background-attachment:fixed;
+}
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app>header,
+.app>footer {
+  width: 100%;
+}
+
+.app>main {
+  flex: 1;
+}
+
+.app>main,
+.app>header>section,
+.app>footer>section {
+  max-width: 1600px;
+}
+
+.app>*>section {
+  padding: 1rem;
+}
+
+@media (min-width: 640px) {
+  .app>*>section {
+      padding: 1rem 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .app>*>section {
+      padding: 1.5rem 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+
+  .app>*>section {
+      padding: 2rem 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .app>*>section {
+      padding: 2.5rem 4rem;
+  }
+}
+
+video.-z-10.absolute.top-0.bottom-0.right-0.left-0.w-full.h-full.object-cover {
+  z-index: 1;
+}
+.text-shadow {
+  z-index: 3;
+}
+.-z-10.absolute.top-0.bottom-0.left-0.w-full.h-full {
+  z-index: 9;
+}
+section.relative.py-10.flex.flex-col.items-center.gap-6.md\:gap-10.overflow-hidden.h-fit {
+  z-index: 9;
+  background: #fff;
+}
+.flex.gap-2.items-center.font-bold.pt-5.mt-5 {
+  z-index: 9;
+}
+h1.text-secondary.text-2xl.serif {
+  font-weight: bold;
+  text-shadow: 1px 2px 3px red;
+}
+section.text-center {
+  z-index: 2;
+  width: 100%;
+  padding: 10px;
+  background-color: #0d6efd;
+}
+section.relative.flex.flex-wrap.justify-around.items-center.gap-10.overflow-hidden {
+  z-index: 10;
+  /* background: #fff; */
+  padding: 8rem;
+}
+.flex.gap-4.z-99 {
+  z-index: 9;
+}
+button.font-semibold.shadow.rounded.py-1\.5.px-4.border.bg-light.border-primary.bg-transparent.text-primary {
+  background: #fff;
+}
+.conclaveVideo video {
+  height: 250px;
+}
+.tree-conclve-heding{
+  padding-top: 5px !important;
+}
+@media(min-width:1200px){
+  h1.text-secondary.text-2xl.serif {
+    font-weight: bold;
+    text-shadow: 1px 2px 3px red;
+    font-size: 55px;
+  }
+  h1.cursive.text-4xl {
+    text-shadow: 1px 2px 2px #000;
+    font-weight: bold;
+    font-size: 55px;
+    color: #fff ;
+}
+}
+@media(min-width:1000px){
+  .conclave{
+    margin-top: 150px;
+  }
+  .conclave-text{
+    padding-top: 50px;
+  }
+  
+}
+.text-secondary {
+  color: red !important;
+}
