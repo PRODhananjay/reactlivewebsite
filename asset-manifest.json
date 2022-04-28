@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.3a93f358.css",
+    "main.js": "/reactlivewebsite/static/js/main.df798983.js",
+    "static/js/937.1e58057a.chunk.js": "/reactlivewebsite/static/js/937.1e58057a.chunk.js",
+    "static/js/787.2577c28c.chunk.js": "/reactlivewebsite/static/js/787.2577c28c.chunk.js",
+    "static/media/video-1.mp4": "/reactlivewebsite/static/media/video-1.ab428163a075fa1f6c72.mp4",
+    "static/media/bg2.mp4": "/reactlivewebsite/static/media/bg2.d8aa0ab5b035de226280.mp4",
+    "static/media/bg.mp4": "/reactlivewebsite/static/media/bg.b65d9ad30687f628a4cf.mp4",
+    "static/media/students.jpg": "/reactlivewebsite/static/media/students.3b7d1eb23f551f9db82b.jpg",
+    "static/media/logo.png": "/reactlivewebsite/static/media/logo.c1d3666aee205334d0e0.png",
+    "static/media/team.jpg": "/reactlivewebsite/static/media/team.dabac12d93a852af9da1.jpg",
+    "static/media/event.jpg": "/reactlivewebsite/static/media/event.48f17b153a7adddbd326.jpg",
+    "static/media/books.jpg": "/reactlivewebsite/static/media/books.cce3e50999358fddb258.jpg",
+    "static/media/logo.mp4": "/reactlivewebsite/static/media/logo.74d2ba660a1996eaa2aa.mp4",
+    "static/media/cnn.png": "/reactlivewebsite/static/media/cnn.09038653e5f74e8cf29f.png",
+    "static/media/forbes.png": "/reactlivewebsite/static/media/forbes.9894e5f48eea9713c471.png",
+    "static/media/cnbc.png": "/reactlivewebsite/static/media/cnbc.08f89e21591f6fe322b2.png",
+    "static/media/network.png": "/reactlivewebsite/static/media/network.f8dda83593de720172d4.png",
+    "static/media/bg.svg": "/reactlivewebsite/static/media/bg.ba174f43babcf044b8b3f262917daa3c.svg",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/media/close.svg": "/reactlivewebsite/static/media/close.da7fcbbe8af83906b72f4037a0448bc6.svg",
+    "static/media/dropdown.svg": "/reactlivewebsite/static/media/dropdown.fe7ffde0346fd2cc1908b484b9adf3d2.svg",
+    "main.3a93f358.css.map": "/reactlivewebsite/static/css/main.3a93f358.css.map",
+    "main.df798983.js.map": "/reactlivewebsite/static/js/main.df798983.js.map",
+    "937.1e58057a.chunk.js.map": "/reactlivewebsite/static/js/937.1e58057a.chunk.js.map",
+    "787.2577c28c.chunk.js.map": "/reactlivewebsite/static/js/787.2577c28c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a93f358.css",
+    "static/js/main.df798983.js"
+  ]
+}
